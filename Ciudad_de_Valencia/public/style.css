@@ -52,11 +52,11 @@ nav.nav a:hover{
 	font-weight: bold;
 	border: black 1px solid;
 	top: 365px;
-	text-align: center;
+	text-align: left;
 }
 .footer{
 	position: relative;
 	top: 350px;
 	background-color: lightblue;
-	
+	text-align: center;
 }
