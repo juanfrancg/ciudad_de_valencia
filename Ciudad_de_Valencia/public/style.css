@@ -51,8 +51,8 @@ nav.nav a:hover{
 	color: blue;
 	font-weight: bold;
 	border: black 1px solid;
-	top: 370px;
-	text-align: left;
+	top: 365px;
+	text-align: center;
 }
 .footer{
 	position: relative;
