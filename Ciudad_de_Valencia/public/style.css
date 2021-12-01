@@ -47,15 +47,16 @@ nav.nav a:hover{
 	background-image: url(img/valencia_antigua.jpg);
 	background-repeat: no-repeat;
 	position: absolute;
-	right: 20%;
+	right: 50%;
 	color: blue;
 	font-weight: bold;
 	border: black 1px solid;
 	top: 365px;
+	text-align: left;
 }
 .footer{
 	position: relative;
 	top: 350px;
 	background-color: lightblue;
-	text-align: center;
+	
 }
